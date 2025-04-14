@@ -21,7 +21,7 @@ function App() {
      
      </div>
      <Pictures></Pictures>
-     <h3 className='text-center text-3xl text-red-700 font-bold bg-red-100 p-20'>
+     <h3 className='text-center text-3xl text-red-700 font-bold bg-gradient-to-b from-red-100 to-yellow-100 p-20'>
      বাংলার বধূ (প্রেমময়ী  চিরদিনি)💝💝
 
      </h3>

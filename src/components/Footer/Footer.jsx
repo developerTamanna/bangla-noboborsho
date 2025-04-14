@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
     return (
         <div>
-            <footer className="bg-gradient-to-r from-yellow-100 to-red-100 mt-10 p-8 text-center text-black">
+            <footer className="bg-gradient-to-b from-red-100 to-yellow-100 mt-10 p-8 text-center text-black">
     <div className="text-4xl font-extrabold">
         <span className="text-orange-600">বৈশাখ</span> ১৪৩২
     </div>
