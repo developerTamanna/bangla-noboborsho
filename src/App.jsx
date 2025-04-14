@@ -4,6 +4,8 @@ import Wishes from './components/Wishes';
 import FloatingItems from './components/FloatingItems';
 import Pictures from './components/Pictures/Pictures';
 import NavBar from './components/navBar/navBar';
+import Diff from './components/Diff/Diff';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -19,6 +21,14 @@ function App() {
      
      </div>
      <Pictures></Pictures>
+     <h3 className='text-center text-3xl text-red-700 font-bold bg-red-100 p-20'>
+     বাংলার বধূ (প্রেমময়ী  চিরদিনি)💝💝
+
+     </h3>
+     <div className=''>
+     <Diff></Diff>
+     </div>
+     <Footer></Footer>
     </div>
     
   );
