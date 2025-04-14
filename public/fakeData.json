@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Panta_Ilish.jpg",
+      "caption": "পহেলা বৈশাখে পান্তা ইলিশ",
+      "description": "বাঙালির নববর্ষ উদযাপনের অন্যতম ঐতিহ্য পান্তা ইলিশ।  ইলিশ মাছ ভাজা আর পেঁয়াজ-লেবুর স্বাদে ভরা এই খাবার বাঙালির হৃদয়ে গেঁথে আছে।"
+    },
+    {
+      "id": 2,
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2022/07/11/alu_bukhara_beef_bhuna.jpg",
+      "caption": "বাঙালি মাংস ভুনা",
+      "description": "মসলার ঝাঁজে আর দারুণ স্বাদের মাংস ভুনা বাঙালিদের পছন্দের তালিকার শীর্ষে। গরম রুটির সাথে খেতে অপূর্ব লাগে।"
+    },
+    {
+      "id": 3,
+      "image_url": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/10/Doi-fuchka.jpg",
+      "caption": "ফুচকা",
+      "description": "ফুচকা মানেই টক-ঝাল-মিষ্টি মিশ্রণে মুখের মধ্যে এক দুর্দান্ত স্বাদের বিস্ফোরণ। বিকালের আড্ডায় ফুচকা না হলে জমে না।"
+    },
+    {
+      "id": 4,
+      "image_url": "https://pikturenama.com/wp-content/uploads/2018/06/Panta-Bhaat-logo-5.jpg",
+      "caption": "পান্তা ভাত",
+      "description": "পান্তা ভাত বাঙালির গ্রাম্য জীবনের সহজ-সরল এক খাদ্য। গরমের দিনে পান্তা ভাত, পেঁয়াজ, লবণ-লেবু আর ভর্তা খেলে প্রাণ জুড়িয়ে যায়।"
+    },
+    {
+      "id": 5,
+      "image_url": "https://www.deshigrub.com/wp-content/uploads/2009/12/Hilsha-aka-Ilish.jpg",
+      "caption": "মাছ ভাজা",
+      "description": "তেলে ভাজা গরম গরম ইলিশ কিংবা রুই মাছের স্বাদ, ভাতের সাথে একেবারে পরিপূর্ণ বাঙালি খাবারের স্বাদ এনে দেয়।"
+    },
+    {
+      "id": 6,
+      "image_url": "https://www.ekushey-tv.com/media/imgAll/2018March/Recipi-Sutki-Inner20180320010554.jpg",
+      "caption": "শুটকি ভর্তা",
+      "description": "ঝাল-মশলায় ভর্তা করা শুটকি ভর্তা খেতেই আলাদা মজা! ভাতের সাথে খেলে একেবারে জম্পেশ খাওয়া হয়ে যায়।"
+    }
+  ]
+  
